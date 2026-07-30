@@ -1,0 +1,18 @@
+# general
+
+azure-identity==1.25.3
+azure-appconfiguration==1.9.0
+
+# app container apps
+
+azure-mgmt-appcontainers==5.0.0
+
+# aifoundry
+
+azure-mgmt-cognitiveservices==13.6.0
+
+# search
+
+requests==2.34.2
+azure-keyvault-secrets==4.11.0
+jinja2==3.1.6
